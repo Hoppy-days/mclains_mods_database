@@ -1,0 +1,218 @@
+mod name,mc_version,latest_version_available,compatibility_flag,mod version number,author,project id,file id,source,url,loader,dependencies,required
+Chiseled Bookshelf Visualizer,>=1.20,1.20.1,,2.0,Bawnorton,1081354,6061422,CurseForge,https://modrinth.com/mod/chiseled-bookshelf-visualizer,fabric,,True
+AddonsLib,~1.20.1,1.19.2,,1.20.1-1.5,Samlegamer,864238,4545612,CurseForge,https://www.curseforge.com/minecraft/mc-mods/addonslib,fabric,fabric-api:*,True
+AmbientSounds,>=1.20,1.19.2,,6.1.11,"CreativeMD, AriaFreeze",922365,4800907,CurseForge,,fabric,fabric-api:*; creativecore:>=2.12.14,True
+Amendments,>=1.20 <1.21,1.18.2,,1.20-2.2.1,MehVahdJukaar,947210,5073755,CurseForge,https://www.curseforge.com/minecraft/mc-mods/amendments,fabric,moonlight:>=1.20-2.16.0,True
+Animal Pen,~1.20,1.16.5,,1.5.1,BONNe1704,341752,3317444,CurseForge,,fabric,architectury:>=9.2.14; fabric-api:*,True
+Animatica,1.20.x,1.20.1,,0.6.1+1.20.4,FoundationGames,1401633,7321886,CurseForge,https://github.com/FoundationGames/Animatica,fabric,,True
+AppleSkin,,1.16.5,,2.5.1+mc1.20,squeek502,481147,3324652,CurseForge,https://minecraft.curseforge.com/projects/appleskin,fabric,fabric-api:*,True
+Architectury,~1.20-,1.12.2,,9.2.14,shedaniel,1099568,5816535,CurseForge,https://architectury.github.io/architectury-documentations/,fabric,fabric-api:>=0.66.0,True
+Athena,>=1.20,1.21.1,1.21.x,3.1.2,ThatGravyBoat,1303053,6782873,CurseForge,,fabric,,True
+Axiom,>=1.20 <1.20.2,1.21,1.21.x,5.0.1,Moulberry,1066509,5544359,CurseForge,,fabric,fabric-api:*,True
+AzureLib Armor,1.20.1,1.16.5,,2.0.14,"AzureDoom, Gecko, Eliot, Hydos, DerToaster, Tslat, KyoSleep, Bvanseg",657276,3924644,CurseForge,https://modrinth.com/mod/azurelib-armor,fabric,fabric-api:*,True
+BadOptimizations,1.20.1,1.21.11,1.21.x,2.3.0,Thosea,949555,7338756,CurseForge,https://modrinth.com/mod/badoptimizations/,fabric,,True
+Balm,>=1.20,1.20.1,,7.3.34,BlayTheNinth,1229485,7310235,CurseForge,https://mods.twelveiterations.com/,fabric,fabric-api:*,True
+Banner Bedsheets,,1.16.5,,1.2,rein-hub,459811,4271045,CurseForge,https://modrinth.com/datapack/banner-bedsheets,fabric,fabric-resource-loader-v0:*,True
+Banner Flags,,1.21.11,1.21.x,2.3,Gurkis,1224662,7342064,CurseForge,https://modrinth.com/datapack/banner-flags,fabric,fabric-resource-loader-v0:*,True
+Beautify,~1.20,1.12.2,,1.2.0+1.20.1,Suel_ki,313008,2668334,CurseForge,https://www.curseforge.com/minecraft/mc-mods/beautify-refabricated,fabric,cloth-config:*,True
+Better Climbing,>=1.20,1.12.2,,3,artemis,301542,2705902,CurseForge,https://github.com/artemisSystem/better-climbing,fabric,,True
+Better Advancements,1.20.x,1.20.1,,0.4.2.25,way2muchnoise,1144368,5921719,CurseForge,https://www.curseforge.com/minecraft/mc-mods/better-advancements,fabric,fabric-api:*,True
+Better Archeology,~1.20,1.20.1,,1.2.1-1.20.1,"Pandarix, Dunk3ll1cht",1388128,7240668,CurseForge,https://legacy.curseforge.com/minecraft/mc-mods/better-archeology,fabric,fabric-api:*; yungsapi:>=1.20-Fabric-4.0.4; supermartijn642configlib:>=1.1.8,True
+Better Beds,>=1.19.3,1.16.1,,1.3.0,"Motschen, TeamMidnightDust",393691,2997992,CurseForge,https://www.midnightdust.eu/,fabric,fabric-api:*,True
+BetterF3,>=1.20,1.20.1,,7.0.2,"cominixo, TreyRuffy",1407829,7348096,CurseForge,https://modrinth.com/mod/betterf3,fabric,,True
+Better Loot,~1.20.1,1.21.1,1.21.x,1.0.0+mc1.20.1,TriQue,1301558,6738091,CurseForge,https://github.com/TriQue06/better-loot-1.20.x,fabric,fabric-api:*,True
+Better Statistics Screen,1.20.1,1.20.1,,3.12.6+fabric-1.20.1,TheCSDev,1045094,5562555,CurseForge,https://github.com/TheCSMods,fabric,fabric-api:*; tcdcommons:>=3.12.2,True
+BiomesOPlenty,1.20.1,1.20.4,,19.0.0.96,"Adubbz, Forstride",1032196,5404887,CurseForge,https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty,fabric,glitchcore:>=0.0.1.0; terrablender:>=3.0.1.7,True
+Blur (Fabric),,1.16.4,,3.1.0,"tterrag1098, Motschen, Pyrofab, backryun, byquanton",463833,3269725,CurseForge,https://modrinth.com/mod/blur-fabric,fabric,satin:*,True
+Bookshelf,1.20.1,1.20.1,,20.2.13,Darkhax,876994,4595691,CurseForge,https://www.curseforge.com/minecraft/mc-mods/bookshelf,fabric,,True
+BotanyPots,1.20.1,1.18.2,,13.0.41,Darkhax,436262,4025854,CurseForge,https://www.curseforge.com/minecraft/mc-mods/botany-pots,fabric,bookshelf:>=20,True
+BotanyTrees,1.20.1,1.19.2,,9.0.18,Darkhax,979690,5287946,CurseForge,https://www.curseforge.com/minecraft/mc-mods/botany-trees,fabric,bookshelf:>=20; botanypots:>=12,True
+Bountiful,1.20.1,1.18.2,,6.0.4+1.20.1,Ejektaflex,1337900,6952548,CurseForge,https://www.curseforge.com/minecraft/mc-mods/bountiful-fabric,fabric,kambrik:>=6.1.0,True
+Bridging Mod,>=1.20,1.20.1,,2.5.1+1.20.1,CG360,1198170,6202924,CurseForge,https://github.com/CloudG360/BridgingMod,fabric,yet_another_config_lib_v3:>=3.4.2+1.20.1,True
+Cave Dust,1.20.x,1.10,,1.4.1,LizIsTired,102144,942531,CurseForge,https://github.com/LizIsTired/dust,fabric,,True
+Chipped,>=1.20.1,1.20.1,,3.0.7,"Alex Nijjar, Grimbop, Kekie6, ThatGravyBoat",1153811,6134411,CurseForge,,fabric,fabric-api:*; resourcefullib:>=2.1.20; athena:>=3.1.1,True
+Cloth Config v11,>=1.20-,1.21.11,1.21.x,11.1.136,shedaniel,9s6osm5g,Wsus0EWg,Modrinth,https://minecraft.curseforge.com/projects/cloth-config,fabric,,True
+Collective,>=1.20,1.20.1,,8.3,Rick South,1396950,7402238,CurseForge,https://curseforge.com/minecraft/mc-mods/collective,fabric,,True
+Comforts,1.20.x,1.20.1,,6.4.0+1.20.1,Illusive Soulworks,1158418,5986769,CurseForge,,fabric,fabric-api:*; cardinal-components-base:*; cardinal-components-entity:*,True
+Connectible Chains,1.20.1,1.21,1.21.x,2.5.4-hotfix.1+1.20.1,legoatoom,1077771,5597142,CurseForge,https://github.com/legoatoom/ConnectibleChains,fabric,cloth-config:>=11.1.136,True
+Continuity,1.20.1,1.21.11,1.21.x,3.0.0+1.20.1,PepperCode1,1284863,7426013,CurseForge,https://modrinth.com/mod/continuity,fabric,fabric-api:>=0.89.0,True
+Controlling For Fabric,1.20.1,1.21.11,1.21.x,12.0.2,Jaredlll08,1345612,7336820,CurseForge,https://minecraft.curseforge.com/projects/controlling,fabric,searchables:1.0.x,True
+CoolRain,~1.20.1,1.18.2,,1.2.0-1.20.1,Jaiz,699760,4087183,CurseForge,,fabric,fabric-api:*,True
+CopperandTuffBackport,1.20.1 || 1.20.2,,,1.2,Xanthian,,,Fabric JAR,,fabric,,True
+Create: Copycats+,>=1.20.1,1.21.1,1.21.x,2.2.2+mc.1.20.1-fabric,"Lysine, Bennyboy1695, Redcat_XVIII",1288799,7386105,CurseForge,,fabric,create:>=0.5.1-d-build.1161,True
+Countered's Terrain Slabs,~1.20.1,1.21.1,1.21.x,2.0.2,Countered!,495660,5637725,CurseForge,https://fabricmc.net/,fabric,fabric-api:*,True
+Crate Delight,>=1.20,1.20.1,,25.08.08-1.20-fabric,Axperty,1031509,5401888,CurseForge,https://www.curseforge.com/members/axperty/projects,fabric,,True
+Create Crafts & Additions,~1.20.1,1.20.1,,1.2.6,"MRH0, AlphaMode, StockiesLad",1333581,6939305,CurseForge,https://github.com/mrh0/createaddition,fabric,registrate-fabric:*; flywheel:*,True
+Create,1.20.1,1.16.5,,0.5.1-j-build.1631+mc1.20.1,"Fabricators of Create, Creators of Create",953274,7419362,CurseForge,https://github.com/Fabricators-of-Create/Create,fabric,fabric-api:>=0.92.2+1.20.1; porting_lib_accessors:>=2.3.8+1.20.1; porting_lib_base:>=2.3.8+1.20.1; porting_lib_entity:>=2.3.8+1.20.1; porting_lib_extensions:>=2.3.8+1.20.1; porting_lib_networking:>=2.3.8+1.20.1; porting_lib_obj_loader:>=2.3.8+1.20.1; porting_lib_tags:>=3.0; porting_lib_transfer:>=2.3.8+1.20.1; porting_lib_models:>=2.3.8+1.20.1; porting_lib_client_events:>=2.3.8+1.20.1; forgeconfigapiport:>=8.0.0; milk:>=1.2.60; reach-entity-attributes:>=2.4.0,True
+CreativeCore,>=1.20,1.20.1,,2.12.33,"CreativeMD, AriaFreeze",1420092,7414053,CurseForge,,fabric,fabric-api:*,True
+Cristel Lib,1.20.1,1.18.2,,1.1.5,Cristelknight999,615926,3763283,CurseForge,https://modrinth.com/mod/cristel-lib,fabric,,True
+Critters and Companions,1.20.x,1.20.1,,1.20.1-2.3.1,"Joosh, EterDelta",1209320,6244833,CurseForge,,fabric,geckolib:*,True
+Cull Less Leaves,>=1.20 <1.21.2,1.21.11,1.21.x,1.4.2+1.21-fabric,isXander,818443,7460279,CurseForge,https://isxander.dev,fabric,yet_another_config_lib_v3:>=3.4.0; fabric-api:*; sodium:<0.6,True
+cupboard,1.20.x,1.6.4,,1.20.1-2.7,Someaddon,59098,2224307,CurseForge,,fabric,,True
+Cut Through,1.20.1,1.20.1,,8.0.2,Fuzs,1226295,6835189,CurseForge,https://github.com/Fuzss/cutthrough,fabric,fabric-api:>=0.83.0; puzzleslib:>=8.0.12,True
+Decorative Blocks,1.20.1,1.7.10,,4.1.3,"Lilypuree, Stohun",237275,2404958,CurseForge,https://github.com/lilypuree/Decorative-Blocks,fabric,,True
+Delightful Chefs,>=1.20,1.20.1,,1.0.3,average_anime,1246219,6445737,CurseForge,https://www.curseforge.com/minecraft/mc-mods/delightful-chefs,fabric,fabric-api:*,True
+Diagonal Fences,1.20.1,1.20.1,,8.1.5,"Fuzs, XFactHD",1247748,6481933,CurseForge,https://github.com/Fuzss/diagonalfences,fabric,fabric-api:>=0.92.0; puzzleslib:>=8.1.13; diagonalblocks:*,True
+Diagonal Walls,1.20.1,1.14.4,,8.0.4,"Fuzs, XFactHD",392779,2997912,CurseForge,https://github.com/Fuzss/diagonalwalls,fabric,fabric-api:>=0.92.0; puzzleslib:>=8.1.13; diagonalblocks:*,True
+Distant Horizons,1.20 || 1.20.1,1.20.1,,2.3.4-b,"James Seibel, Leonardo Amato, Cola, coolGi, Ran, Leetom, pshsh",1381892,7211037,CurseForge,https://modrinth.com/mod/distanthorizons,fabric,fabric-api-base:*; fabric-lifecycle-events-v1:*; fabric-resource-loader-v0:*,True
+Dungeon Now Loading,1.20.1,1.20.1,,2.0,Hexnowloading,1351495,7089318,CurseForge,https://fabricmc.net/,fabric,,True
+Dungeons and Taverns,,1.20.1,,3.0.3.f,"NovaWostra, Walls",1122789,5936157,CurseForge,https://modrinth.com/datapack/dungeons-and-taverns,fabric,fabric-resource-loader-v0:*,True
+Easy Anvils,1.20.1,1.21.11,1.21.x,8.0.2,Fuzs,1202313,7345176,CurseForge,https://github.com/Fuzss/easyanvils,fabric,fabric-api:>=0.83.0; puzzleslib:>=8.0.0,True
+Easy Magic,1.20.1,1.20.1,,8.0.1,Fuzs,976056,5116303,CurseForge,https://github.com/Fuzss/easymagic,fabric,fabric-api:>=0.83.0; puzzleslib:>=8.0.0,True
+Easy Shulker Boxes,1.20.1,1.16.5,,8.0.2,Fuzs,455807,3265267,CurseForge,https://github.com/Fuzss/easyshulkerboxes,fabric,fabric-api:>=0.92.0; puzzleslib:>=8.1.13; puzzlesapi:*,True
+Eating Animation,>=1.20,1.21.11,1.21.x,1.20+1.9.61,"theone_ss, spusik_, PinkGoosik, DoctorNight1",928901,6725665,CurseForge,https://www.curseforge.com/members/theone_ss,fabric,fabric-api:*,True
+Elytra Trims,>=1.20 <=1.20.1,1.21.10,1.21.x,3.5.9,KikuGie,1331576,7115179,CurseForge,https://modrinth.com/mod/elytra-trims,fabric,fabric-language-kotlin:>=0.13,True
+Enhanced Block Entities,>=1.20,1.21.11,1.21.x,0.9+1.20,FoundationGames,1137133,5889337,CurseForge,https://github.com/FoundationGames/EnhancedBlockEntities,fabric,,True
+Entity Model Features,*,1.21.11,1.21.x,3.0.1,Traben,1383102,7378740,CurseForge,https://www.curseforge.com/minecraft/mc-mods/entity-model-features,fabric,entity_texture_features:>=7.0.0,True
+Entity Texture Features,*,1.18.2,,7.0.2,Traben,1249774,6454887,CurseForge,https://www.curseforge.com/minecraft/mc-mods/entity-texture-features-fabric,fabric,,True
+Eternal Attributes,>=1.20 <=1.20.1,1.20.1,,1.0.0,ElocinDev,1404433,7401239,CurseForge,https://github.com/nvb-uy/EternalAttributes,fabric,fabric-api:*; necronomicon:>=1.6.0,True
+Every Compat,>=1.20,1.20.1,,1.20-2.9.2,MehVahdJukaar,1372717,7151904,CurseForge,https://github.com/MehVahdJukaar/every_compat,fabric,moonlight:>=1.20-2.16.0,True
+Expanded Ecosphere,1.20.1,1.20.1,,3.2.4,"Cristelknight999, William Wythers",1217225,6401334,CurseForge,https://www.curseforge.com/minecraft/mc-mods/expanded-ecosphere,fabric,cristellib:>=1.1.3,True
+Expanded Delight,~1.20,1.20.1,,0.3.2,ianm1647,1016140,5364889,CurseForge,https://github.com/ianm1647/expandeddelight,fabric,fabric-api:*; farmersdelight:*,True
+Exposure,=1.20.1,1.20.1,,1.7.16,mortuusars,1118396,7391984,CurseForge,https://www.curseforge.com/minecraft/mc-mods/exposure,fabric,fabric-api:>=0.88.1; forgeconfigapiport:>=8.0.0,True
+Fabric API,>=1.20 <1.20.2-,1.20.1,,0.92.6+1.20.1,FabricMC,1247254,6445037,CurseForge,https://fabricmc.net,fabric,,True
+Fabric Language Kotlin,,1.20.1,,1.13.5+kotlin.2.2.10,FabricMC,1162549,6009239,CurseForge,https://minecraft.curseforge.com/projects/fabric-language-kotlin,fabric,,True
+Falling Leaves,>=1.19.4,1.21.1,1.21.x,1.15.6,"Fourmisain, BrekiTomasson, RandomMcSomethin",1347002,7003722,CurseForge,https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric,fabric,fabric-api:*; cloth-config:>=10.0.0,True
+Farmer's Delight,>=1.20 <=1.20.1,1.21.1,1.21.x,1.20.1-2.4.0+refabricated,"MehVahdJukaar, MerchantPug",1269550,6698063,CurseForge,https://www.curseforge.com/minecraft/mc-mods/farmers-delight-refabricated,fabric,fabric-api:*,True
+Fast Item Frames,1.20.1,1.18.1,,20.1.5,Fuzs,582484,3661449,CurseForge,https://github.com/Fuzss/fastitemframes,fabric,fabric-api:>=0.92.0; puzzleslib:>=8.1.27,True
+FerriteCore,>=1.20 <1.21,1.20.1,,6.0.1,malte0811,1279791,6638239,CurseForge,https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric,fabric,,True
+Forge Config API Port,1.20.1,1.21.11,1.21.x,8.0.2,Fuzs,547434,7337130,CurseForge,https://github.com/Fuzss/forgeconfigapiport,fabric,fabric-api:>=0.83.0,True
+Framework,1.20.1,1.18.2,,0.6.16,MrCrayfish,1016372,5341219,CurseForge,https://mrcrayfish.com/mods?id=framework,fabric,,True
+Fusion,>=1.20 <1.20.2,1.20.1,,1.2.11,SuperMartijn642,1329798,6899742,CurseForge,https://www.curseforge.com/minecraft/mc-mods/fusion-connected-textures,fabric,,True
+Fzzy Config,1.20.1,1.21.11,1.21.x,0.7.2+1.20.1,fzzyhmstrs,1005914,7359942,CurseForge,https://www.curseforge.com/minecraft/mc-mods/fzzy-config,fabric,fabric-language-kotlin:>=1.10.18+kotlin.1.9.22,True
+GeckoLib 4,>=1.20.1,1.19.4,,4.7.4,"Gecko, Eliot, AzureDoom, DerToaster, Tslat, Witixin",893651,4667556,CurseForge,https://www.curseforge.com/minecraft/mc-mods/geckolib,fabric,fabric-api:>=0.92.0+1.20.1,True
+GeckoLibIrisCompat,,,,1.0.0,ElocinDev,,,Fabric JAR,,fabric,,True
+GlitchCore,1.20.1,1.20.1,,0.0.1.1,Adubbz,1405424,7350221,CurseForge,https://www.curseforge.com/minecraft/mc-mods/glitchcore,fabric,,True
+Glowing Torchflower,>=1.20-,1.17.1,,1.3.0,NikitaCartes,606143,3758634,CurseForge,https://github.com/NikitaCartes/Glowing-Torchflower,fabric,,True
+GuardVillagers,~1.20.1,1.20.1,,2.0.9-1.20.1,MrSterner,1391121,7261448,CurseForge,,fabric,fabric-api:*,True
+Handcrafted,>=1.20,1.16.5,,3.0.6,"Alex Nijjar, Kekie6",1256215,6484151,CurseForge,,fabric,resourcefullib:>=2.1.1,True
+Highlighter,~1.20,1.16.5,,1.1.9,Grend,391908,3330552,CurseForge,https://anthonyhilyard.com/,fabric,forgeconfigapiport:>=8.0; iceberg:>=1.1.16,True
+Iceberg,1.20.1,1.19.4,,1.1.25,Grend,310383,5071741,CurseForge,https://anthonyhilyard.com/,fabric,,True
+Illager Invasion,1.20.1,1.20.1,,8.0.7,"Dricky, Safro, Zeckemith, Fuzs",1279850,6612482,CurseForge,https://github.com/Fuzss/illagerinvasion,fabric,fabric-api:>=0.83.0; puzzleslib:>=8.0.19,True
+ImmediatelyFast,>=1.20 <=1.20.4,1.21.1,1.21.x,1.5.1+1.20.4,RK_01,1399268,7308875,CurseForge,https://modrinth.com/mod/immediatelyfast,fabric,,True
+Immersive Aircraft,,1.21.1,1.21.x,1.3.3+1.20.1,Luke100000,1282223,6626925,CurseForge,https://www.curseforge.com/minecraft/mc-mods/immersive-aircraft,fabric,fabric-api-base:>=0.1.0,True
+Immersive Armors,,1.20.1,,1.7.1+1.20.1,Luke100000,1116610,5850669,CurseForge,https://www.curseforge.com/minecraft/mc-mods/immersive-armors,fabric,fabric-api-base:>=0.1.0,True
+Immersive Thunder,>=1.20.1,1.20.1,,1.20.1+1.2.2,LeahPy,1404433,7401239,CurseForge,https://github.com/LeahPy/ImmersiveThunder,fabric,cloth-config:>=11.1.106; fabric-api:*,True
+Indium,1.20.1 || 1.20.5 || 1.20.6,1.16.5,,1.0.36+mc1.20.1,comp500,1362541,7091801,CurseForge,https://modrinth.com/mod/indium,fabric,sodium:~0.5.11; fabric-renderer-api-v1:>=3.2.0; fabric-resource-loader-v0:>=0.4.0,True
+Inventory HUD +,>=1.20,1.21.7,1.21.x,3.4.26,DmitryLovin,1303122,6746493,CurseForge,https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge,fabric,,True
+Inventory Profiles Next,>=1.20-beta.1 <1.21,1.21.11,1.21.x,1.10.19,mirinimi/blackd,679177,7327445,CurseForge,https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next,fabric,fabric-resource-loader-v0:*; fabric-language-kotlin:>=1.9.2+kotlin.1.8.10; libipn:>=4.0.2 <5.0.0,True
+Iris,1.20.1,1.16.5,,1.7.6+mc1.20.1,"coderbot, IMS212, Justsnoopy30, FoundationGames",1256215,6484151,CurseForge,https://github.com/IrisShaders/Iris,fabric,sodium:0.5.x,True
+Items Displayed,~1.20.1,1.19.2,,1.3,FREEDINNER,853720,4543863,CurseForge,https://www.curseforge.com/minecraft/mc-mods/items-displayed,fabric,fabric-api:*,True
+ItemSwapper,1.20.1,1.20.1,,0.8.1,tr7zw,1386982,7234266,CurseForge,https://modrinth.com/plugin/itemswapper,fabric,fabric-api:*,True
+Jade,>=1.20-,1.20.1,,11.13.1+fabric,Snownee,1174812,6068517,CurseForge,https://www.curseforge.com/minecraft/mc-mods/jade,fabric,,True
+JamLib,>=1.20.1,1.20.1,,1.3.5+1.20.1,Jamalam,1286463,6650023,CurseForge,https://github.com/JamCoreModding/jamlib,fabric,fabric-api:>=0.92.4+1.20.1; architectury:>=9.2.14,True
+Just Enough Items,,1.20.1,,15.20.0.112,mezz,1084656,5632873,CurseForge,https://www.curseforge.com/minecraft/mc-mods/jei,fabric,fabric-api:>=0.92.2+1.20.1,True
+Jewelry (RPG Series),1.20.1,1.16.5,,1.3.7+1.20.1,Daedelus,526816,3460097,CurseForge,,fabric,spell_power:*; ranged_weapon_api:>=1.1.0,True
+Just Enough Resources,1.20.x,1.21.1,1.21.x,1.4.0.247,way2muchnoise,506948,6306205,CurseForge,https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer,fabric,,True
+Kambrik,1.20.1,1.12.2,,6.1.1+1.20.1,Ejektaflex,388160,2974024,CurseForge,https://www.curseforge.com/minecraft/mc-mods/kambrik,fabric,fabric-language-kotlin:>=1.8.21,True
+Krypton,1.20.x,1.19.3,,0.2.3,tuxed,682881,4469703,CurseForge,,fabric,,True
+LambDynamicLights,~1.20 <1.20.2-,1.21.11,1.21.x,4.1.4+1.20.1,LambdAurora,393442,7321863,CurseForge,https://lambdaurora.dev/projects/lambdynamiclights,fabric,lambdynlights_api:>=4.1.4+1.20.1; spruceui:>=6.2.1+1.20; fabric-lifecycle-events-v1:>=2.2.22+1802ada577; fabric-resource-loader-v0:>=0.11.10+1802ada577; fabric-rendering-v1:>=3.0.8+1802ada577,True
+Leaf Me Alone,>=1.19.4,1.20.1,,1.0.1,Nord_Act,1162376,6046051,CurseForge,,fabric,,True
+[Let's Do] Furniture,>=1.20.1,1.20.1,,1.0.4,"berksire, satisfy, cph101",1209187,6242080,CurseForge,https://github.com/satisfyu/NeverEnoughFurniture,fabric,architectury:>=6.5.77,True
+[Let's Do] WilderNature,>=1.20,1.20.1,,1.0.6,"satisfy, jason13",1332726,6916590,CurseForge,https://legacy.curseforge.com/minecraft/mc-mods/lets-do-wildernature,fabric,trinkets:>=3.7.1; architectury:>=9.0.8,True
+libIPN,>=1.20-beta.1 <1.20.2,1.20.1,,4.0.2,mirinimi/blackd,1286463,6650023,CurseForge,https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next,fabric,fabric-resource-loader-v0:*; fabric-language-kotlin:>=1.9.2+kotlin.1.8.10,True
+Litematica,1.20.x,1.19.4,,0.15.3,masa,877825,4603249,CurseForge,https://www.curseforge.com/minecraft/mc-mods/litematica,fabric,malilib:0.16.x,True
+Lithium,1.20.1,1.21.4,1.21.x,0.11.3,"JellySquid, 2No2Name",1180606,6184864,CurseForge,https://jellysquid.me/projects/,fabric,,True
+Lithostitched,>=1.20,1.20.1,,1.4.11,Apollo,1312815,6804573,CurseForge,https://modrinth.com/mod/lithostitched/,fabric,,True
+Majrusz Library,>=1.20.1,1.21.10,1.21.x,7.0.8,Majrusz,1362054,7088338,CurseForge,https://modrinth.com/mod/majrusz-library,fabric,,True
+Majrusz's Accessories,>=1.20.1,1.19.3,,1.5.3,Majrusz,698188,4353872,CurseForge,https://modrinth.com/mod/majruszs-accessories,fabric,majruszlibrary:>=7.0.0,True
+MaLiLib,1.20.x,1.12.2,,0.16.3,masa,525356,3485389,CurseForge,https://www.curseforge.com/minecraft/mc-mods/malilib,fabric,fabric-resource-loader-v0:*,True
+MC Dungeons Armors,>=1.20.0,1.20.1,,5.0.2,"Chronosacaria, Kluzzio, SeaOfPixels (Art), SattesKrokodil (Art), Patreons (Support)",1083490,5644858,CurseForge,https://www.curseforge.com/minecraft/mc-mods/mcda,fabric,cloth-config2:>=11.0.0.1,True
+Macaw's Biomes O' Plenty,~1.20.1,1.21.1,1.21.x,1.20.1-1.2,Samlegamer,1282351,6659580,CurseForge,https://www.curseforge.com/minecraft/mc-mods/macaws-biomes-o-plenty,fabric,fabric-api:*; biomesoplenty:>=19.0.0.94; addonslib:>=1.20.1-1.5,True
+Macaw's Bridges,~1.20.1,1.21.10,1.21.x,3.1.0,SketchMacaw,1090999,7384661,CurseForge,https://www.curseforge.com/minecraft/mc-mods/macaws-bridges,fabric,fabric-api:*,True
+Macaw's Doors,~1.20.1,1.21.1,1.21.x,1.1.2,Sketch Macaw & Peachy Macaw,1305087,6770216,CurseForge,https://www.curseforge.com/minecraft/mc-mods/macaws-doors,fabric,fabric-api:*,True
+Macaw's Fences and Walls,~1.20.1,1.21.10,1.21.x,1.2.0,SketchMacaw,453925,7308439,CurseForge,https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls,fabric,fabric-api:*,True
+Macaw's Furniture,~1.20.1,1.19.4,,3.3.0,Sketch Macaw & Peachy Macaw,952996,4982222,CurseForge,https://www.curseforge.com/minecraft/mc-mods/macaws-furniture,fabric,fabric-api:*,True
+Macaw's Lights and Lamps,~1.20.1,1.21.10,1.21.x,1.1.2,SketchMacaw,502372,7304138,CurseForge,https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps,fabric,fabric-api:*,True
+Macaw's Paths and Pavings,~1.20.1,1.20.1,,1.1.0,"Sketch Macaw, Peachy Macaw",878437,4602715,CurseForge,https://www.curseforge.com/minecraft/mc-mods/macaws-paths-and-pavings,fabric,fabric-api:*,True
+Macaw's Roofs,~1.20.1,1.21.10,1.21.x,2.3.2,SketchMacaw,1090999,7384661,CurseForge,https://www.curseforge.com/minecraft/mc-mods/macaws-roofs,fabric,fabric-api:*,True
+Macaw's Stairs and Balconies,~1.20.1,1.12.2,,1.0.1,"Sketch Macaw, Peachy Macaw",457565,3506492,CurseForge,https://www.curseforge.com/minecraft/mc-mods/macaws-stairs,fabric,fabric-api:*,True
+Macaw's Trapdoors,~1.20.1,1.20.1,,1.1.4,SketchMacaw,1052766,5821396,CurseForge,https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors,fabric,fabric-api:*,True
+Macaw's Windows,~1.20.1,1.14,,2.4.0,SketchMacaw,323746,2721526,CurseForge,https://www.curseforge.com/minecraft/mc-mods/macaws-windows,fabric,fabric-api:*,True
+Memory Leak Fix,,1.21,1.21.x,1.1.5,FX - PR0CESS,1065012,5538628,CurseForge,https://github.com/fxmorin/memoryleakfix,fabric,,True
+Mighty Mail,1.20.1,,,1.0.14,MrCrayfish,57498,,CurseForge,https://mrcrayfish.com/mods?id=mighty_mail,fabric,framework:>=0.6.14,True
+Mob Player Animator,1.20.1,1.20.1,,1.3.3,Thelnfamous1,1304294,6872445,CurseForge,https://github.com/Thelnfamous1/Mob-Player-Animator,fabric,player-animator:>=1; cloth-config:>=11.0.0,True
+ModernFix,>=1.16.2,1.16.5,,5.24.4+mc1.20.1,embeddedt,1362541,7091801,CurseForge,https://modrinth.com/mod/modernfix,fabric,,True
+Mod Menu,>=1.19.4-,1.21.1,1.21.x,7.2.2,"Prospector, haykam821, TerraformersMC",1386228,7234650,CurseForge,https://modrinth.com/mod/modmenu,fabric,fabric-resource-loader-v0:*; fabric-screen-api-v1:>=1.0.4; fabric-key-binding-api-v1:*; fabric-lifecycle-events-v1:*,True
+Moonlight,1.20.1,1.19.4,,1.20-2.16.8,MehVahdJukaar,916924,4857301,CurseForge,https://www.curseforge.com/minecraft/mc-mods/selene,fabric,,True
+More Culling,>=1.20.1,1.20.1,,1.20.4-0.24.0,FX - PR0CESS,1172541,6057099,CurseForge,https://github.com/fxmorin/moreculling,fabric,cloth-config:>=11.0.99,True
+More Mob Variants,~1.20.1,1.20.1,,1.3.1,nyuppo,1131622,5861799,CurseForge,https://nyuppo.github.io/moremobvariants/,fabric,fabric-api:*,True
+Mouse Tweaks,~1.20,1.21.10,1.21.x,2.26,Ivan Molodetskikh (YaLTeR),1390878,7256020,CurseForge,https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks,fabric,fabric-api:*,True
+Mythic Upgrades,~1.20.1,1.20.1,,4.2.0+mc1.20.1,TriQue,1398050,7459715,CurseForge,https://github.com/TriQue06/mythic-upgrades-1.20.x,fabric,fabric-api:*,True
+Naturalist,>=1.20.1,1.20.1,,5.0pre5,Starfish Studios,884338,5306991,CurseForge,https://www.curseforge.com/minecraft/mc-mods/naturalist,fabric,geckolib:>=4.0.0,True
+Nature's Compass,~1.20.1,1.12.2,,1.20.1-2.2.3-fabric,ChaosTheDude,802991,4325942,CurseForge,https://www.curseforge.com/minecraft/mc-mods/natures-compass,fabric,,True
+Nature's Spirit,1.20.1,1.20.1,,2.2.5-1.20.1,Team Hibiscus,1426438,7455887,CurseForge,,fabric,terrablender:*,True
+Necronomicon,,1.12.2,,1.6.0,ElocinDev,860893,5051342,CurseForge,,fabric,,True
+Noisium,>=1.20 <=1.20.1,1.20.1,,2.3.0+mc1.20-1.20.1,Steveplays28,1044890,5594577,CurseForge,https://modrinth.com/mod/noisium,fabric,,True
+No Resource Pack Warnings,,1.20.1,,1.3.1,Space Walker,1195339,6174598,CurseForge,https://modrinth.com/mod/no-resource-pack-warnings,fabric,,True
+Notebook,1.20.1,1.20.1,,4.1.1,Juniper Primavera (aka June),1136618,5937756,CurseForge,https://modrinth.com/mod/notebook,fabric,fabric-api:*,True
+Obscure API,1.20.1,1.20,,16,Obscuria,670004,4377971,CurseForge,,fabric,,True
+OptiGUI,>=1.18 <=1.20.4,1.19.4,,2.1.7,opekope2,811677,4439747,CurseForge,https://opekope2.github.io/OptiGUI,fabric,fabric-lifecycle-events-v1:*; fabric-networking-api-v1:*; fabric-events-interaction-v0:*; fabric-language-kotlin:>=1.9.0+kotlin.1.8.0; optiglue:=2.1.7-mc.1.18 || =2.1.7-mc.1.18.2 || =2.1.7-mc.1.19 || =2.1.7-mc.1.19.3,True
+OtterLib,>=1.20.1 <=1.20.1,1.19.2,,0.2.2.0+1.20.1-fabric,Oth3r,670358,4074842,CurseForge,https://modrinth.com/mod/otterlib,fabric,,True
+oωo,>=1.19,1.21.10,1.21.x,0.11.2+1.20,"glisco, BasiqueEvangelist, Noaaan",532610,7248199,CurseForge,,fabric,,True
+Particle Rain,1.19.4 || 1.20 || 1.20.1 || 23w31a || >=1.20.1,1.21.1,1.21.x,3.0.6-1.20,PigCart,1419562,7424732,CurseForge,https://github.com/PigCart/particle-rain,fabric,fabric-api:*; cloth-config2:*,True
+Patchouli,>=1.20.1 <1.21,1.20.1,,1.20.1-81-FABRIC,"Vazkii, williewillus",1307309,6771725,CurseForge,https://github.com/Vazkii/ModsPatchouli,fabric,,True
+Pick Up Notifier,1.20.1,1.20.1,,8.0.0,Fuzs,1406735,7345462,CurseForge,https://github.com/Fuzss/pickupnotifier,fabric,fabric-api:>=0.83.0; puzzleslib:>=8.0.0,True
+Player Animator,~1.20,1.20.1,,1.0.2-rc1+1.20,KosmX  ,1371888,7451085,CurseForge,kosmx.dev,fabric,fabric-resource-loader-v0:*,True
+Polymorph,1.20.x,1.20.1,,0.49.10+1.20.1,Illusive Soulworks,956084,5707266,CurseForge,,fabric,,True
+Presence Footsteps,>=1.20.0,1.19.2,,1.10.1+1.20.1,"Hurricaaane (Ha3), Sollace",1029858,5396309,CurseForge,https://github.com/Sollace/Presence-Footsteps,fabric,fabric-api:>=0.91.0+1.20.1; kirin:>=1.15.6+1.20.1,True
+Puzzles Lib,1.20.1,1.20.2,,8.1.33,Fuzs,1342024,6995957,CurseForge,https://github.com/Fuzss/puzzleslib,fabric,fabric-api:>=0.92.0; forgeconfigapiport:*; puzzlesaccessapi:*,True
+RangedWeaponAPI,1.20.1,1.7.10,,1.1.4+1.20.1,Daedelus,1402661,7322023,CurseForge,,fabric,,True
+Rechiseled,>=1.20 <1.21,1.21.1,1.21.x,1.1.6,SuperMartijn642,1392412,7273137,CurseForge,https://www.curseforge.com/minecraft/mc-mods/rechiseled,fabric,supermartijn642corelib:>=1.1.0 <1.2.0; supermartijn642configlib:>=1.1.0; fusion:>=1.0.0,True
+Resourceful Lib,>=1.20,1.20.1,,2.1.29,"ThatGravyBoat, Epic_Oreo",988785,5447802,CurseForge,https://resourcefulbees.com,fabric,,True
+Universal Sawmill,>=1.20 <1.21,1.12.2,,1.20-1.4.10,MehVahdJukaar,592541,3901956,CurseForge,https://www.curseforge.com/minecraft/mc-mods/sawmill,fabric,moonlight:*,True
+Searchables,1.20.1,1.20.1,,1.0.3,Jaredlll08,1400075,7306347,CurseForge,https://minecraft.curseforge.com/projects/searchables,fabric,,True
+Simple Magnets,>=1.20 <1.20.2,1.18.2,,1.1.12,SuperMartijn642,645177,3880021,CurseForge,https://www.curseforge.com/minecraft/mc-mods/simple-magnets,fabric,supermartijn642corelib:>=1.1.17 <1.2.0; supermartijn642configlib:>=1.1.6,True
+Simply Swords,>=1.20 <=1.20.1,1.20.1,,1.56.0-1.20.1,"Sweenus, Konsyliarz42 (Art)",961368,5047274,CurseForge,https://www.curseforge.com/minecraft/mc-mods/simply-swords,fabric,architectury:>=7.1.0; cloth-config:>=11.1.106,True
+3d-Skin-Layers,1.20.1,1.21.8,1.21.x,1.9.0,tr7zw,1319494,7222515,CurseForge,https://modrinth.com/mod/3dskinlayers,fabric,fabric-api:*,True
+SkinShuffle,>=1.20 <=1.20.1,1.16.4,,2.4.0+1.20.1,"IMB11 (mineblock11), enjarai",427571,3136198,CurseForge,,fabric,yet_another_config_lib_v3:>=3.6.1+1.20.1-fabric,True
+Smooth Swapping,~1.20,1.21.11,1.21.x,0.9.3.1,Schauweg,1335137,7384200,CurseForge,https://modrinth.com/mod/smooth-swapping,fabric,,True
+Sodium,1.20.1,1.19.4,,0.5.13+mc1.20.1,JellySquid (jellysquid3),952996,4982222,CurseForge,https://github.com/CaffeineMC/sodium-fabric,fabric,fabric-rendering-data-attachment-v1:>=0.1; fabric-rendering-fluids-v1:>=0.1,True
+Sooty Chimneys for Fabric,1.20.1,1.20.1,,1.1.0,"otomir23, mortuusars",865948,4680062,CurseForge,,fabric,fabric-language-kotlin:>=1.10.0+kotlin.1.9.0,True
+Sophisticated Backpacks,1.20.1,1.18.1,,1.20.1-3.23.4.4.105,"P3pp3rF1y, Ridanisaurus, Salandora",582903,3661247,CurseForge,https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks-unofficial-fabric-port,fabric,fabric-api:>=0.92.2+1.20.1; sophisticatedcore:>=1.20.1-1.2.7.7 <1.20.4; forgeconfigapiport:>=8.0.0; team_reborn_energy:>=3.0.0; porting_lib_loot:>=2.3.2; porting_lib_model_loader:>=2.3.2; porting_lib_tool_actions:>=2.3.2; porting_lib_networking:>=2.3.2; porting_lib_transfer:>=2.3.2,True
+Sophisticated Core,1.20.1,1.20.1,,1.20.1-1.2.7.12.160,"P3pp3rF1y, Salandora",1175440,6125509,CurseForge,https://www.curseforge.com/minecraft/mc-mods/sophisticated-core-unofficial-fabric-port,fabric,fabric-api:>=0.92.2+1.20.1; porting_lib_extensions:>=2.3.2; porting_lib_fluids:>=2.3.2; porting_lib_networking:>=2.3.2; porting_lib_transfer:>=2.3.2; forgeconfigapiport:>=8.0.0; team_reborn_energy:>=3.0.0,True
+Sound Physics Remastered,1.20.1,1.20.1,,1.20.1-1.4.15,"Sonic Ether, vlad2305m, Max Henkel, Saint",974493,5106444,CurseForge,https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered,fabric,,True
+Spawn Animations,>=1.17 <=1.21.8,1.21.1,1.21.x,1.11+mod,Tschipcraft,1350134,7013309,CurseForge,https://tschipcraft.ddns.net/spawnanimations.html,fabric,,True
+spawnersplus-4.3.3-1.20.1.jar,,1.21.1,1.21.x,,,eAyaXQpH,VAsYqtcg,Modrinth,,unknown,,True
+Spell Engine,>=1.20.0,1.20.1,,0.15.12+1.20.1,Daedelus,1396048,7282856,CurseForge,,fabric,cloth-config:>=11.1.106; player-animator:>=0.9.9; spell_power:>=0.12.0+1.20.1,True
+Spell Power Attribute,>=1.20.0,1.19.2,,0.12.0+1.20.1,Daedelus,826620,4563057,CurseForge,,fabric,,True
+Status Effect Bars,>=1.20-,1.12.2,,1.0.3,Neecko5b84,357918,2863822,CurseForge,https://www.curseforge.com/minecraft/mc-mods/status-effect-bars,fabric,cloth-config2:*,True
+Create: Steam 'n' Rails,1.20.1,1.20.1,,1.6.9+fabric-mc1.20.1,The Railways Team,1300109,6762218,CurseForge,https://github.com/Layers-of-Railways/Railway/,fabric,fabric-api:>=0.92.2+1.20.1; create:0.5.1-j-build.1631+mc1.20.1,True
+Storage Drawers,>=1.20.1 <1.20.2,1.21.1,1.21.x,12.14.1,Texelsaur,1165378,6174069,CurseForge,https://www.curseforge.com/minecraft/mc-mods/storage-drawers,fabric,fabric-api:*,True
+Structory,>=1.20,1.20.1,,1.3.5,"Botany, Starmute, catter1",1154003,6006479,CurseForge,https://www.stardustlabs.net/,fabric,fabric-api-base:*,True
+Structure Pool API,1.20.1,1.21.1,1.21.x,1.0+1.20.1,Daedelus,927915,7145229,CurseForge,,fabric,,True
+Structure Essentials Mod,1.20.x,1.20.1,,1.20.1-4.8,Someaddons,1169175,6049769,CurseForge,,fabric,cupboard:*,True
+Subtle Effects,>=1.20.1 <1.20.2,1.19.2,,1.12.1,MincraftEinstein,1341245,6964302,CurseForge,https://curseforge.com/minecraft/mc-mods/subtle-effects,fabric,fabric-api:>=0.92.0+1.20.1; fzzy_config:>=0.7.1+1.20.1,True
+SuperBetterGrass,~1.20,1.21,1.21.x,1.5.2+1.20.1,"dima_dencep, LambdAurora",911433,5427366,CurseForge,https://curseforge.com/minecraft/mc-mods/super-better-grass,fabric,cloth-config:*,True
+SuperMartijn642's Config Lib,>=1.20 <1.21,1.21.11,1.21.x,1.1.8+a,SuperMartijn642,438332,7376963,CurseForge,https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-config-lib,fabric,,True
+SuperMartijn642's Core Lib,>=1.20.1 <1.20.2,1.21.11,1.21.x,1.1.18+a,SuperMartijn642,454372,7427836,CurseForge,https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib,fabric,,True
+Supplementaries,>=1.20.1 <1.20.2,1.20.1,,1.20-3.1.37,"MehVahdJukaar, Plantkillable",1363328,7096217,CurseForge,https://www.curseforge.com/minecraft/mc-mods/supplementaries,fabric,moonlight:>=1.20-2.16.0,True
+Table Top Craft,~1.20,1.20.1,,1.20.1-5.0.2,andrew0030,1408994,7435338,CurseForge,https://www.curseforge.com/minecraft/mc-mods/table-top-craft,fabric,,True
+Tax Free Levels,>=1.19.2 <=1.20.1,1.21.11,1.21.x,1.4.8,Fourmisain,462128,7392100,CurseForge,https://www.curseforge.com/minecraft/mc-mods/tax-free-levels,fabric,cloth-config2:*,True
+TCD Commons API,1.20.1,1.21.11,1.21.x,3.12.3.3+fabric-1.20.1,TheCSDev,711539,7389129,CurseForge,https://github.com/TheCSDev,fabric,fabric-api:*,True
+Tectonic,,1.21.1,1.21.x,3.0.12,Apollo,1400849,7310344,CurseForge,https://modrinth.com/project/tectonic,fabric,lithostitched:>=1.4.11,True
+TerraBlender,1.20.x,1.20.1,,3.0.1.10,Adubbz,1322636,6859519,CurseForge,https://www.curseforge.com/minecraft/mc-mods/terrablender,fabric,,True
+Tiny Item Animations,,1.12.2,,1.20-1.1,Trivaxy,955803,5037562,CurseForge,https://www.curseforge.com/minecraft/mc-mods/tiny-item-animations,fabric,,True
+Tiny Mob Farm,>=1.20.1,1.21.1,1.21.x,1.4.1-1.20.1,DAQEM,1380274,7199247,CurseForge,https://daqem.com,fabric,architectury:>=9.2.14; supermartijn642configlib:>=1.1.8; uilib:>=0.3.5,True
+Towns and Towers,>=1.19.3,1.20.1,,1.12,"Kubek and Biban_Auriu, Cristelknight999",1033790,5412387,CurseForge,https://www.curseforge.com/minecraft/mc-mods/towns-and-towers,fabric,cristellib:*,True
+Trade Cycling,1.20.1,1.19.3,,1.20.1-1.0.7,Max Henkel,809031,4331290,CurseForge,https://www.curseforge.com/minecraft/mc-mods/trade-cycling,fabric,,True
+Trinkets,>1.18,1.21.1,1.21.x,3.7.2,"Emi, C4",1381442,7201967,CurseForge,https://www.curseforge.com/minecraft/mc-mods/trinkets-fabric,fabric,cardinal-components-base:>=3.0.0-0; cardinal-components-entity:>=3.0.0-0,True
+Trowel,~1.20,1.21.1,1.21.x,1.3.0-1.20,"TheEnderCore, Astra",1396762,7366187,CurseForge,https://github.com/theendercore/Trowel,fabric,fabric-api:>=0.92.1+1.20.1; fabric-language-kotlin:>=1.11.0+kotlin.2.0.0,True
+UI Lib,>=1.20.1,1.12.2,,0.3.6,DAQEM,898191,4679738,CurseForge,https://daqem.com/,fabric,architectury:>=9.1.12,True
+VanillaTweaks,>=1.20,1.20.1,,1.5.71,StrikerRocker,1106782,6907209,CurseForge,,fabric,cloth-config2:>=7,True
+Vein Mining,>=1.20,1.21,1.21.x,1.5.0+1.20.1,Illusive Soulworks,992638,5450251,CurseForge,,fabric,fabric-api:*,True
+Verdant Vibes,~1.20.1,1.16.5,,1.0.1-1.20.1,Pandarix,659630,3942570,CurseForge,https://curseforge.com/minecraft/mc-mods/verdantvibes,fabric,fabric-api:*,True
+Visuality,>=1.20-beta.4 <1.21,1.19.2,,0.7.1+1.20,PinkGoosik,1078407,5700666,CurseForge,https://modrinth.com/mod/visuality,fabric,fabric-api:*; cloth-config:*,True
+Visual Workbench,1.20.1,1.20.1,,8.0.1,Fuzs,1196522,6173557,CurseForge,https://github.com/Fuzss/visualworkbench,fabric,fabric-api:>=0.83.0; puzzleslib:>=8.0.0,True
+Wakes,>=1.20 <1.20.3,1.20.1,,0.4.0+1.20.1,Goby56,1344866,6984409,CurseForge,https://modrinth.com/mod/wakes,fabric,fabric-api:*,True
+Waystones,>=1.20,1.19.4,,14.1.17,BlayTheNinth,849292,4486028,CurseForge,https://blay09.net/,fabric,balm-fabric:>=7.0.0; fabric-api:*,True
+Wildlife,1.20.1,1.12.2,,1.19.2-2.2,,645074,3877339,CurseForge,,fabric,geckolib:>=4.2.1; patchouli:>=1.20.1-81-FABRIC,True
+William Wythers' Overhauled Overworld,>=1.20.1,1.18.2,,2.0.0,"Cristelknight999, William Wythers",1016585,5351714,CurseForge,https://modrinth.com/mod/wwoo/,fabric,fabric-api:*,True
+Xaero's Minimap,>=1.20 <=1.20.1,1.21.1,1.21.x,25.2.10,xaero96,1117972,6536591,CurseForge,https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap,fabric,fabric-api:>=0.43.1,True
+Xaero's World Map,>=1.20 <=1.20.1,1.21.11,1.21.x,1.39.12,xaero96,636608,7420726,CurseForge,https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map,fabric,fabric-api:>=0.43.1,True
+XLPackets,,1.20.1,,1.19.2-4,Tfarecnim,1327636,6890332,CurseForge,https://fabricmc.net/,fabric,,True
+YetAnotherConfigLib,1.20.1,1.21.11,1.21.x,3.6.6+1.20.1-fabric,isXander,667299,7437853,CurseForge,https://isxander.dev,fabric,fabric-api:>=0.92.0+1.20.1,True
+You're in Grave Danger,>=1.20,1.20.1,,2.0.16,b1n_ry,1425889,7465279,CurseForge,https://www.curseforge.com/minecraft/mc-mods/youre-in-grave-danger,fabric,fabric-api:*; cloth-config:^11.0.0,True
+You Shall Not Spawn,1.20.x,1.20.6,,2.0.2,ElocinDev,1180669,6092823,CurseForge,https://github.com/nvb-uy/ysns,fabric,necronomicon:>=1.4.2,True
+YUNG's API,>=1.20,1.21.1,1.21.x,1.20-Fabric-4.0.6,YUNGNICKYOUNG,1137696,5892692,CurseForge,https://www.curseforge.com/minecraft/mc-mods/yungs-api-fabric,fabric,,True
+Zoomify,>=1.20 <=1.20.1,1.21.8,1.21.x,2.14.0+1.20.1,isXander,1352468,7026290,CurseForge,https://isxander.dev,fabric,fabric-api:*; fabric-language-kotlin:>=1.11.0+kotlin.2.0.0; yet_another_config_lib_v3:>=3.5.0,True
